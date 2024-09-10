@@ -26,7 +26,7 @@ This project performs a comprehensive data analysis of Netflix titles from 2021.
 ## Installation
 
 ### 1. Clone the repository:  
-  git clone https://github.com/your-username/netflix-content-analysis.git
+  git clone https://github.com/Rahulmanjhi45/Analyzing-Netflix-Content-Trends.git
 
 ### 2.  Install the required Python libraries:  
   pip install pandas, numpy, matplotlib.pyplot, seaborn
